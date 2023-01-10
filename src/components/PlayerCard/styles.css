@@ -1,0 +1,23 @@
+.player-card{
+    background-color: #0068D0;
+    opacity: 0.95;
+    height: 40vh;
+    width: 40vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px; 
+}
+.fcontainer{
+    height: 50%;
+    width: 100%;
+    
+}
+.scontainer{
+    height: 50%;
+    width: 100%;
+       
+}
+img{
+    width: 100px;
+}
